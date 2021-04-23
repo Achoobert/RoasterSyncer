@@ -1,0 +1,108 @@
+
+
+  2019-04-30 12:10:30.575612
+
+Connected to Google!
+Connected to Roaster!
+Result:
+These files have been gotten from roaster:
+
+ These files have been uploaded:
+
+  2019-04-30 12:10:43.049751
+
+Connected to Google!
+Connected to Roaster!
+Result:
+These files have been gotten from roaster:
+
+ These files have been uploaded:
+
+  2019-04-30 12:11:10.343880
+
+Connected to Google!
+Connected to Roaster!
+Result:
+These files have been gotten from roaster:
+
+ These files have been uploaded:
+
+  2019-04-30 12:11:23.128481
+
+Connected to Google!
+Connected to Roaster!
+Result:
+These files have been gotten from roaster:
+ date 2014.02.05 with 3 roasts 
+ date 2014.02.06 with 7 roasts 
+ date 2014.02.12 with 4 roasts 
+ date 2014.02.14 with 9 roasts 
+ date 2014.02.15 with 4 roasts 
+ date 2016.08.06 with 4 roasts 
+
+ These files have been uploaded:
+ date 2014.02.05 with 3 roasts
+ date 2014.02.06 with 7 roasts
+ date 2014.02.12 with 4 roasts
+ date 2014.02.14 with 9 roasts
+ date 2014.02.15 with 4 roasts
+ date 2016.08.06 with 4 roasts
+
+  2019-05-01 13:51:48.567340
+
+Connected to Google!
+Connected to Roaster!
+Result:
+These files have been gotten from roaster:
+
+ These files have been uploaded:
+
+  2019-05-01 13:52:23.705343
+There may be problem connecting to Google, Check Internet Connection
+
+Result:
+These files have been gotten from roaster:
+
+ These files have been uploaded:
+
+  2019-05-01 13:52:50.553913
+
+Connected to Google!
+Connected to Roaster!
+Result:
+These files have been gotten from roaster:
+ date 2014.02.05 with 3 roasts 
+ date 2014.02.06 with 7 roasts 
+ date 2014.02.12 with 4 roasts 
+ date 2014.02.14 with 9 roasts 
+ date 2014.02.15 with 4 roasts 
+ date 2016.08.06 with 4 roasts 
+
+ These files have been uploaded:
+ date 2014.02.05 with 3 roasts
+ date 2014.02.06 with 7 roasts
+ date 2014.02.12 with 4 roasts
+ date 2014.02.14 with 9 roasts
+ date 2014.02.15 with 4 roasts
+ date 2016.08.06 with 4 roasts
+
+  2019-05-01 14:28:36.929530
+
+Connected to Google!
+Connected to Roaster!
+Result:
+These files have been gotten from roaster:
+ date 2014.02.05 with 3 roasts 
+ date 2014.02.06 with 7 roasts 
+ date 2014.02.12 with 4 roasts 
+ date 2014.02.14 with 9 roasts 
+ date 2014.02.15 with 4 roasts 
+ date 2016.08.06 with 4 roasts 
+
+ These files have been uploaded:
+ date 2014.02.05 with 3 roasts
+ date 2014.02.06 with 7 roasts
+ date 2014.02.12 with 4 roasts
+ date 2014.02.14 with 9 roasts
+ date 2014.02.15 with 4 roasts
+ date 2016.08.06 with 4 roasts

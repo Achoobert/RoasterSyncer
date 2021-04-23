@@ -1,0 +1,6 @@
+https://developers.google.com/drive/api/v3/quickstart/python
+
+sudo pip install --upgrade google-api-python-client
+
+Get credentials.json
+run quickstart/python to authorize the pc
