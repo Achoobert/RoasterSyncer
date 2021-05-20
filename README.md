@@ -10,3 +10,7 @@ The output is designed to be used in Artisan Roaster Scope. It's free and pretty
 The purpouse of these scripts is to import a "daily" CSV and then output "Roasts CSV files"
 
 After getting the script to work, we put together a TKlinter UI so the warehouse workers could run the script, and get a picture with feedback on wither it worked... and if it didn't, where the problem was.
+![](./Coffee project/15062200.PNG)
+![](./Coffee project/15.like 20 roasts..PNG)
+![](./Coffee project/14. 4 or 5 roasts..PNG)
+![](./Coffee project/26.4roasts..PNG)
