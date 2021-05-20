@@ -12,6 +12,8 @@ The purpouse of these scripts is to import a "daily" CSV and then output "Roasts
 After getting the script to work, we put together a TKlinter UI so the warehouse workers could run the script, and get a picture with feedback on wither it worked... and if it didn't, where the problem was.
 
 ![](./Coffee project/15062200.PNG)
+![image](https://user-images.githubusercontent.com/8057443/118935366-abd35c80-b975-11eb-9306-28425fa5d2e5.png)
+
 
 ![](./Coffee project/15.like 20 roasts..PNG)
 
