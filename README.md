@@ -11,7 +11,10 @@ The output is designed to be used in Artisan Roaster Scope. It's free and pretty
 
 **Python script**
 The purpouse of this scripts is to import a "daily" CSV and then output "Roasts CSV files"
-The original daily files looked like this when imported to Artisan
+The original daily files looked like this when imported to Artisan. 
+It's been a long time, so not sure exactly how it works, but it manages to dissect all of these blobs into individual roasts
+
+
 ![image](https://user-images.githubusercontent.com/8057443/118935366-abd35c80-b975-11eb-9306-28425fa5d2e5.png)
 
 ![image](https://user-images.githubusercontent.com/8057443/118935434-bee62c80-b975-11eb-970f-6813df3aa585.png)
